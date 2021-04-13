@@ -1,3 +1,5 @@
+*Kindly go through the readme file before getting into the the notebooks.
+
 # About the Author
 Allan Mutisya develops machine learning and deep learning solutions for structured, image, and text data, analytics and insights, innovation lab in Kenya. He has acquired a lot of experience in both analytics and data science. He received his Data science excellence certificate from Moringa School. He is an artificial intelligence enthusiast. When not working, he likes to read about next-gen technologies and innovative methodologies.
 
